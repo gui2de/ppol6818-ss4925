@@ -1,7 +1,7 @@
 # ppol6818-ss4925
 ### Header
 #### Subheader
-![picture]("images\profile.JPG")
+![picture](images/profile.JPG)
 - bullet 1
 - bullet 2
 - bullet 3
