@@ -13,3 +13,8 @@
 - Combining years of experience as a communications professional coupled with a deep intellectual curiosity and appreciation of analytical rigor, she is now training to pursue a career in research and academia seeking to design and examine public policies in service of older adults everywhere.
 
  [Su Yeon Seo's Linkdeln](https://www.linkedin.com/in/su-yeon-s-112528157)
+
+ ### Peer Q & A
+ #### What has been your favorite thing about Washington, D.C. so far?
+
+Having lived in the city for the past eight years, being surrounded by numerous opportunities has been my favorite thing about Washington, D.C. It is not an exageration to say that this is the city where it happens. Legislations, research, lobbying, anything possibly imagine related to policy and politics takes place in D.C. As a policy student who aims to contribute to this society through research and policy development on the population aging issues, living inside the city where it breathes policies has been my favorite thing.
