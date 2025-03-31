@@ -25,7 +25,7 @@ Simulated Sample Sizes: first 20 powers of 2 & first 6 powers of 10.
 ![Part 2 Figure](stata_3_part_2_figure_1.png)
 
 ### Results Summary
-- SEM and CI width *continue shrinking** with increasing sample size
+- SEM and CI width **continue shrinking** with increasing sample size
 - Demonstrates the **law of large numbers** with no upper limit
 
 
