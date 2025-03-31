@@ -16,12 +16,12 @@ Simulated Sample Sizes:
 - However, they **plateau** after N = 10,000 due to the population limit
 
 
+
 ## Part 2: Infinite Superpopulation
 ### Setup
 Generated new data from the same DFP in every simulation (superpopulation).
 Simulated Sample Sizes: first 20 powers of 2 & first 6 powers of 10.
 
-### Table Comaprison of Part 1 & Part 2
 ![Part 2 Figure](stata_3_part_2_figure_1.png)
 
 ### Results Summary
@@ -29,9 +29,14 @@ Simulated Sample Sizes: first 20 powers of 2 & first 6 powers of 10.
 - Demonstrates the **law of large numbers** with no upper limit
 
 
+
 ## Part 1 vs Part 2 Comparison
+### Part 1 Table
 ![Part 1 Table](stata_3_part_1_table.png)
+
+### Part 2 Table
 ![Part 2 Table](stata_3_part_2_table.png)
+
 Part 1 hits a max sample size of 10,000. Part 2 simulated beyond that by regenerating data. While SEM for Part 1 (fixed population) plateaus at sample size 10,000, SEM for Part 2 (superpopulation) continues to shrink. Furthermore, while CI width for Part 1 (fixed population) cannot shrink beyond the population size, that of Part 2 (superpopulation) continues to narrow with consinuously increasing population size.
 
 ## Conclusion
