@@ -8,9 +8,10 @@ Simulated samples from a fixed population of 10,000. Sample sizes: 10, 100, 1,00
 ![Part 1 Figure 2](stata_3_part_1_figure_2.png)
 
 ## Part 2: Infinite Superpopulation
-Generated new data each run. Sample sizes: powers of 2 and 10 up to 1,000,000.
+Generated new data each run. Sample sizes: first 20 powers of 2 and first 6 powers of 10.
 
 ![Part 2 Figure](stata_3_part_2_figure_1.png)
 
 ## Part 1 vs Part 2 Comparison
-1
+![Part 1 Table](stata_3_part_1_table.png)
+![Part 2 Table](stata_3_part_2_table.png)
