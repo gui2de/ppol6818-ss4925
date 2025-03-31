@@ -13,3 +13,4 @@ Generated new data each run. Sample sizes: powers of 2 and 10 up to 1,000,000.
 ![Part 2 Figure](stata_3_part_2_figure_1.png)
 
 ## Part 1 vs Part 2 Comparison
+1
