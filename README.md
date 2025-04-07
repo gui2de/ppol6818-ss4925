@@ -65,8 +65,10 @@ These outputs are aggregated and used to generate figures and tables comparing t
 ### Tables
 
 - **Sample Size Table**: Shows the mean treatment coefficient and confidence intervals for each sample size.
+
 ![Table 1](stata_4_table_1.png)
 - **Model Comparison Table**: Summarizes the performance (bias and variance) of each regression model.
+
 ![Table 2](stata_4_table_2.png)
 
 ## Key Takeaways
