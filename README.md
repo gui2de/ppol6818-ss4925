@@ -52,18 +52,22 @@ These outputs are aggregated and used to generate figures and tables comparing t
 
 ### Figures
 
-1. **Coefficient Convergence (`coeff_convergence.jpg`)**:  
+1. **Coefficient Convergence**:  
    - Plots the mean treatment effect estimate and its confidence interval across different sample sizes.
    - Demonstrates that models controlling for confounding and fixed effects converge to the true treatment effect faster as N increases.
+![Figure 1](coeff_convergence.jpg)
 
-2. **Model Bias & Variance Comparison (`model_bias_variance.jpg`)**:  
+2. **Model Bias & Variance Comparison**:  
    - Compares the bias and variance of treatment effect estimates across the five models.
    - Highlights the importance of adjusting for confounders and the benefits of using fixed effects.
+![Figure 2](model_bias_variance.jpg)
 
 ### Tables
 
-- **Sample Size Table (`stata_4_table_1.png`)**: Shows the mean treatment coefficient and confidence intervals for each sample size.
-- **Model Comparison Table (`stata_4_table_2.png`)**: Summarizes the performance (bias and variance) of each regression model.
+- **Sample Size Table**: Shows the mean treatment coefficient and confidence intervals for each sample size.
+![Table 1](stata_4_table_1.png)
+- **Model Comparison Table**: Summarizes the performance (bias and variance) of each regression model.
+![Table 2](stata_4_table_2.png)
 
 ## Key Takeaways
 
